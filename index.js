@@ -1,4 +1,5 @@
 // TODO: Include packages needed for this application
+<<<<<<< HEAD
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown')
@@ -99,3 +100,17 @@ For questions, please contact me at ${answers.questions}.
 init();
 
 
+=======
+
+// TODO: Create an array of questions for user input
+const questions = [];
+
+// TODO: Create a function to write README file
+function writeToFile(fileName, data) {}
+
+// TODO: Create a function to initialize app
+function init() {}
+
+// Function call to initialize app
+init();
+>>>>>>> db88dda01b5af56c2d699e5b7ae974f999ceb658
