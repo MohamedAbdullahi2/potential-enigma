@@ -1,9 +1,10 @@
 
 
-https://camo.githubusercontent.com/8bb1977f745ee8c8107f711ecfa901421a9b929f308fd431f7211508f8ddbd87/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d627269676874677265656e
-
 
 # nodejs project
+
+I have used node.js and npm  the inquirer package and the starter code fork respo  https://github.com/coding-boot-camp/potential-enigma
+I write a command-line programme that prompts users and creates a README for their projects in a polished manner. Actually, the  nodejs ReadmMe generator was used to create this project. Try it out and take comfort in knowing that your README needs are all taken care of.
 
 ## Description
 Generate Professional ReadMe 
