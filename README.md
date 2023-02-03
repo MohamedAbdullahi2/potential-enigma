@@ -1,5 +1,5 @@
 
-
+  ![npm package](https://img.shields.io/badge/npm%20package-v1-brightgreen.svg)
 
 # Nodejs project:- A Command Line To Generate Peofessional README
 
