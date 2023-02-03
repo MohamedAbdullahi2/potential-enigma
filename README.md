@@ -22,6 +22,8 @@ Generate Professional ReadMe
 ## Installation
 npm i
 
+  ![npm package](https://img.shields.io/badge/npm%20package-v1-brightgreen.svg)
+
 ## Usage
 information
 
