@@ -6,6 +6,8 @@
 I have used node.js and npm  the inquirer package and the starter code fork respo  https://github.com/coding-boot-camp/potential-enigma
 I write a command-line programme that prompts users and creates a README for their projects in a polished manner. Actually, the  nodejs ReadmMe generator was used to create this project. Try it out and take comfort in knowing that your README needs are all taken care of.
 
+To create a professional Readme file, follow the instructions below if you want to add something.
+
 ## Description
 Generate Professional ReadMe 
 
